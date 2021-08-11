@@ -10,6 +10,7 @@ import javax.sql.DataSource;
 
 public class test {
 	public static void main(String[] args) {
+		//test code
 		Connection con = null;
 		Statement st = null;
 		ResultSet rs = null;
